@@ -1,23 +1,3 @@
-# Responsive Game HTML
-
-A fully responsive game implementation with proper viewport scaling, DPI handling, dynamic canvas sizing, and complete device compatibility for mobile, tablet, and desktop screens.
-
-## Features
-
-- ✅ Responsive Canvas Sizing
-- ✅ Automatic DPI/Pixel Ratio Handling
-- ✅ Mobile, Tablet, and Desktop Support
-- ✅ Viewport Meta Tags Configuration
-- ✅ Touch and Mouse Input Support
-- ✅ Orientation Change Detection
-- ✅ Device Pixel Ratio Scaling
-- ✅ Fullscreen Capabilities
-- ✅ Performance Optimized
-- ✅ Cross-browser Compatible
-
-## HTML Template
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
